@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pokedex.API", "Pokedex.API\Pokedex.API.csproj", "{85600B79-E263-4B74-8560-03626363B718}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Podedex.Services", "Podedex.Services\Podedex.Services.csproj", "{5958BC87-1AE6-47C6-9BD9-8940EE25FA3F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Podedex.Models", "Podedex.Models\Podedex.Models.csproj", "{903BE208-D69B-4429-9CFE-4D248169BD05}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Podedex.Tests", "Podedex.Tests\Podedex.Tests.csproj", "{CAD33215-A0F3-4A44-A7AF-C3E7E09B0E58}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{85600B79-E263-4B74-8560-03626363B718}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85600B79-E263-4B74-8560-03626363B718}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85600B79-E263-4B74-8560-03626363B718}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85600B79-E263-4B74-8560-03626363B718}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5958BC87-1AE6-47C6-9BD9-8940EE25FA3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5958BC87-1AE6-47C6-9BD9-8940EE25FA3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5958BC87-1AE6-47C6-9BD9-8940EE25FA3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5958BC87-1AE6-47C6-9BD9-8940EE25FA3F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{903BE208-D69B-4429-9CFE-4D248169BD05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{903BE208-D69B-4429-9CFE-4D248169BD05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{903BE208-D69B-4429-9CFE-4D248169BD05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{903BE208-D69B-4429-9CFE-4D248169BD05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAD33215-A0F3-4A44-A7AF-C3E7E09B0E58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAD33215-A0F3-4A44-A7AF-C3E7E09B0E58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAD33215-A0F3-4A44-A7AF-C3E7E09B0E58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAD33215-A0F3-4A44-A7AF-C3E7E09B0E58}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE96112B-BBAD-4852-A1E3-74861E93E204}
+	EndGlobalSection
+EndGlobal
